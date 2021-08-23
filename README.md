@@ -1,7 +1,7 @@
 <!-- **didoo/didoo** is a special repository containing the `README.md` (this file) that appears on your GitHub profile. -->
 ## Hello 👋
 
-My name is **Cristiano Rastelli** (*pronouns: he/him*) and I am **Design System Lead** at **[Badoo](https://tech.badoo.com/en/)**
+My name is **Cristiano Rastelli** (*pronouns: he/him*) and I am **Design System Lead** at **[HashiCorp](https://www.hashicorp.com/)**
 
 I’m currently working on [Cosmos](https://medium.com/bumble-tech/from-zero-to-cosmos-part-1-2d080fe35bf2) 🚀👩‍🚀👨‍🚀 the Design System powering applications like [Badoo](https://badoo.com) and [Bumble](https://bumble.com), used by +500 million users worldwide.
 
