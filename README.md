@@ -5,11 +5,11 @@ My name is **Cristiano Rastelli** (*pronouns: he/him*) and I am **Design System 
 
 I’ve worked for more than five years at Badoo/Bumble on the [Cosmos](https://medium.com/bumble-tech/from-zero-to-cosmos-part-1-2d080fe35bf2) 🚀👩‍🚀👨‍🚀, a design system that powered applications like [Badoo](https://badoo.com) and [Bumble](https://bumble.com), used by +500 million users worldwide.
 
-Now I've joined **[HashiCorp](https://www.hashicorp.com/)** where I hope to have the same impact I had with Cosmos :)
+Now I've joined **[HashiCorp](https://www.hashicorp.com/)**, where I have helped build the [Helios Design System](https://helios.hashicorp.design/), also a highly successful design system, with a strong organic adoption within our suite of products. 
 
 As you can imagine, I am super into design system, so if you ever want to chat about components, design tokens, Figma and assets pipeline, or anything related to design systems, you can reach me at one of these links:
 * **Personal Website**: http://www.didoo.net 👨‍💻 _my personal blog and portfolio_
-* **Twitter**: http://twitter.com/@areaweb  👈  _here is where I share useful links, interesting resources, and my quick thoughts_
+* **Mastodon**: https://mastodon.world/@didoo  👈  _here is where I share useful links, interesting resources, and my quick thoughts_
 * **Medium**: https://medium.com/@didoo  👈  _here is where I publish my long-form posts and technical articles_
 * **GitHub**: well... you're already here! 😀
 
